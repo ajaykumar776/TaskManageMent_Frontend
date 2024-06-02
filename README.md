@@ -9,17 +9,21 @@ npm install
 ```
 npm run serve
 ```
+# Project Details
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Please set the baseUrl of backend server in api.js file.
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# TaskManageMent_Frontend
+
+
+
+
+
+
+
+
+
+
+
+
+
